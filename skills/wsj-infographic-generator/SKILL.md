@@ -76,7 +76,7 @@ Generate **10 ideas**. For each, use this exact structure:
 [One sentence — what the reader learns or reconsiders]
 
 **Data you'd use:**
-[Specific sources: e.g., S&P Capital IQ, BLS JOLTS, Fed H.8, company 10-Ks, Bloomberg consensus estimates, Dealogic, PitchBook, CB Insights, MSCI, FRED]
+[Specific sources: e.g., DOW JONES and WALL STREET JOURNAL properties only - MarketWatch, Barrons, Investors Business Daily, Wall Street Journal, etc.]
 
 **Visual structure:**
 [Specific chart type + layout description. Be concrete: "Ranked horizontal bar chart, top 20 S&P 500 companies by free cash flow margin, with sector color-coding and a vertical line at the median."]
